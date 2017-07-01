@@ -1,0 +1,36 @@
+{
+   "name":"Goddamned QR-code",
+   "category":"stegano",
+   "description":{
+      "RU":"Чтож, после всего остального, это кажется не таким уж и сложным...",
+      "ENG":"Well, after all else, it seems not so complicated ..."
+   },
+   "hints":[
+      {
+         "RU":"QR-code нужно просто собрать. Удачи ;)",
+         "ENG":"QR-code should be simply compose. Good luck;)"
+      }
+   ],
+   "value":500,
+   "flag_type":"static",
+   "flag_key":"ugractf{nice_hack_dude}",
+   "files":[
+      {
+         "name":"Slojnaaaa",
+         "location":"Slojnaaaa.png"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/i/fPOmLcup3JiPP5"
+      }
+   ],
+   "author":{
+      "nick":"Vexar",
+      "team":"KEVA",
+      "contacts":[
+         "vk.com/vexarr"
+      ]
+   },
+   "game":"ugractf"
+}

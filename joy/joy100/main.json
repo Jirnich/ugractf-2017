@@ -1,0 +1,19 @@
+{
+	"name": "traditional",
+	"category": "joy",
+	"description": {
+		"RU": "Проверим вашу внимательность. <br /> В какой раз проводятся соревнования? <br /> Ответ присылать в формате ugractf{номер по счету}",
+		"EN": "OK, check your attentiveness. What number of competitions? The answer is to send in the format ugractf{number}"
+	},
+	"value": 100,
+	"flag_type": "static",
+	"flag_key": "ugractf{2}",
+	"author":{
+      "nick":"shipko",
+      "team":"KEVA",
+      "contacts":[
+        "http://vk.com/mukovkin"
+      ]
+   },
+   "game":"ugractf"
+}

@@ -1,0 +1,40 @@
+{
+   "name":"Strange audio",
+   "category":"stegano",
+   "description":{
+      "RU":"Серьезно? Аудио запись? Оооо, нам хватило непонятного файла в прошлый раз. Эй, ты! Поможешь разобраться, что не так?",
+      "ENG":"Really? Audio recording? Ooooh, we had an incomprehensible file at last time. Hey, you! Help me figure out what's wrong?"
+   },
+   "hints":[
+      {
+         "RU":"А спектрограмма полезная штука!",
+         "ENG":"A spectrogram is a useful thing!"
+      },
+      {
+         "RU":"Похоже на base64.",
+         "ENG":"It looks like base64."
+      }
+   ],
+   "value":300,
+   "flag_type":"static",
+   "flag_key":"ugractf{just_for_you}",
+   "files":[
+      {
+         "name":"task300",
+         "location":"task300.wav"
+      }
+   ],
+   "links": [
+      {
+       "yandex":"https://yadi.sk/d/1Y_veKpb3JKE7N"
+      }
+   ],
+   "author":{
+      "nick":"Vexar",
+      "team":"KEVA",
+      "contacts":[
+         "vk.com/vexarr"
+      ]
+   },
+   "game":"ugractf"
+}

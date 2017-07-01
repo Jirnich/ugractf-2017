@@ -1,0 +1,19 @@
+{
+	"name": "minin style",
+	"category": "joy",
+	"description": {
+		"RU": "А давайте сфотографируемся!? Необходимо найти Минина Виктора Владимировича и сфотографироваться с ним ВСЕЙ командой. Свои фотографии присылайте сюда https://t.me/mukovkin",
+		"EN": "Let's get a picture."
+	},
+	"value": 400,
+	"flag_type": "static",
+	"flag_key": "ugractf{four_hundred_points_your}",
+	"author":{
+      "nick":"shipko",
+      "team":"KEVA",
+      "contacts":[
+        "http://vk.com/mukovkin"
+      ]
+   },
+   "game":"ugractf"
+}

@@ -1,0 +1,19 @@
+{
+	"name": "ooops",
+	"category": "joy",
+	"description": {
+		"RU": "Мы перепутали шредер и сканер. Помогите нам восстановить документ (его можно взять у организаторов)",
+		"EN": "We are confused scaner and shredder. Help us to restore them."
+	},
+	"value": 300,
+	"flag_type": "static",
+	"flag_key": "ugractf{you_are_amazing}",
+	"author":{
+      "nick":"shipko",
+      "team":"KEVA",
+      "contacts":[
+        "http://vk.com/mukovkin"
+      ]
+   },
+   "game":"ugractf"
+}

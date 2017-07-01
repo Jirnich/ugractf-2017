@@ -1,0 +1,19 @@
+{
+	"name": "qrfinder",
+	"category": "joy",
+	"description": {
+		"RU": "Ходят слухи, что в этом здании появились непонятные рисунки на стенах. Помогите нам их расшифровать.",
+		"EN": "Somebody talks that strange drawings is appeared on the walls. Help us to decipher them."
+	},
+	"value": 200,
+	"flag_type": "static",
+	"flag_key": "ugractf{wow_such_many_qr_codes}",
+	"author":{
+      "nick":"shipko",
+      "team":"KEVA",
+      "contacts":[
+        "http://vk.com/mukovkin"
+      ]
+   },
+   "game":"ugractf"
+}
